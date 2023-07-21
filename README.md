@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi I'm Aspen, an Electrical and Computer engineering student at the University of Texas.
 
 <!--
 **NeoRubylith/NeoRubylith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
